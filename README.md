@@ -8,5 +8,5 @@
 - [IP iphoneos-arm64](https://github.com/Mieing/IP/raw/refs/heads/master/packages/com.sttt.ip_0.0.1-4+debug_iphoneos-arm64.deb)
 ### 运行
 ```
-IP 显示你的IP信息!
+IP 显示你的IP地址!
 ```
