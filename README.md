@@ -4,7 +4,7 @@
 
 安装：
 
-- [IP iphoneos-arm](https://github.com/Mieing/IP/blob/master/packages/com.sttt.ip_0.0.1-5%2Bdebug_iphoneos-arm.deb)
+- [IP iphoneos-arm](https://github.com/Mieing/IP/raw/refs/heads/master/packages/com.sttt.ip_0.0.1-5+debug_iphoneos-arm.deb)
 - [IP iphoneos-arm64](https://github.com/Mieing/IP/raw/refs/heads/master/packages/com.sttt.ip_0.0.1-4+debug_iphoneos-arm64.deb)
 ### 运行
 ```
